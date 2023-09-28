@@ -1,5 +1,6 @@
 {
   "name": "react-native-os",
+  "author": "krisz4",
   "version": "1.2.7",
   "description": "node's os module for react-native",
   "main": "index.js",
@@ -8,16 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/aprock/react-native-os"
+    "url": "https://github.com/krisz4/react-native-os"
   },
   "bundleDependencies": false,
   "deprecated": false,
-  "description": "node's os module for react-native",
   "devDependencies": {
     "babel-eslint": "^10.0.3",
     "eslint-plugin-react": "^3.11.3"
   },
-  "homepage": "https://github.com/aprock/react-native-os",
+  "homepage": "https://github.com/krisz4/react-native-os",
   "keywords": [
     "react-component",
     "reactnative",
@@ -29,10 +29,5 @@
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/aprock/react-native-os/issues"
-  },
-  "homepage": "https://github.com/aprock/react-native-os",
-  "devDependencies": {
-    "babel-eslint": "^4.1.6",
-    "eslint-plugin-react": "^3.11.3"
   }
 }
